@@ -1,0 +1,11 @@
+# 登录传送 TpLogin 插件
+# 作者：Month_Light
+
+# 插件版本号
+version: 1.0
+
+# 插件的前缀
+Prefix: '&3MoonLake &7>> &f'
+
+# 位置存储
+Location: ''
